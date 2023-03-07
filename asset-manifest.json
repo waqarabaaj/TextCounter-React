@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TextCounter-React/static/css/main.abd64e84.css",
+    "main.js": "/TextCounter-React/static/js/main.95e31b8f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TextCounter-React/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TextCounter-React/index.html",
+    "main.abd64e84.css.map": "/TextCounter-React/static/css/main.abd64e84.css.map",
+    "main.95e31b8f.js.map": "/TextCounter-React/static/js/main.95e31b8f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TextCounter-React/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.95e31b8f.js"
+  ]
+}
